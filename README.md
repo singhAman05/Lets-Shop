@@ -1,5 +1,3 @@
-# MERN E-COMMERCE TUTORIAL
-
 # Install Dependencies
 
 **For Backend** - `npm i`
